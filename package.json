@@ -1,0 +1,19 @@
+{
+  "name": "vuejs-electron-starter",
+  "version": "1.0.0",
+  "description": "A basic Electron based Vue.js app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mituoh/vuejs-electron-starter.git"
+  },
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hironori Inagaki",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^1.0.3"
+  }
+}
